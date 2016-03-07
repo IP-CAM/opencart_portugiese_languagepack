@@ -14,3 +14,4 @@ $_['entry_email']     = 'Endereço de email';
 
 // Error
 $_['error_email']     = 'Aviso: o endereço de email não foi encontrado na nossa base de dados, verifique se o introduziu corretamente!';
+$_['error_approved']  = 'Aviso: a sua conta necessita de ser aprovada antes de poder entrar na conta.';

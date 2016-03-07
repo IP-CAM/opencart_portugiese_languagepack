@@ -17,7 +17,6 @@ $_['text_success']   = '<p>A sua mensagem foi enviada com sucesso!</p>';
 $_['entry_name']     = 'O seu nome';
 $_['entry_email']    = 'Email';
 $_['entry_enquiry']  = 'Mensagem';
-$_['entry_captcha']  = 'Introduza o código de verificação na caixa abaixo';
 
 // Email
 $_['email_subject']  = 'Mensagem %s';
@@ -26,4 +25,3 @@ $_['email_subject']  = 'Mensagem %s';
 $_['error_name']     = 'O nome deve ter entre 3 e 32 caracteres!';
 $_['error_email']    = 'O endereço de Email não parece ser válido!';
 $_['error_enquiry']  = 'A mensagem deve ter entre 10 e 3000 caracteres!';
-$_['error_captcha']  = 'O código de verificação não corresponde à imagem!';

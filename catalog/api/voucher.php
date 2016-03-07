@@ -2,7 +2,6 @@
 // Text
 $_['text_success']     = 'Sucesso: o desconto do vale de oferta foi aplicado!';
 $_['text_cart']        = 'Sucesso: alterou o seu carrinho de compras!';
-
 $_['text_for']         = '%s Vale de oferta para %s';
 
 // Error

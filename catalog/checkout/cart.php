@@ -24,7 +24,7 @@ $_['text_recurring_item']    	              = 'Item recorrente';
 $_['text_payment_recurring']                    = 'Perfil de pagamento';
 $_['text_trial_description'] 	              = '%s todas as %s(s) de %d para %d pagamento(s) então';
 $_['text_payment_description'] 	              = '%s todas as %s(s) de %d para pagamento(s) %d';
-$_['text_payment_until_canceled_description'] = '%s cada %s(s) %d até cancelado';
+$_['text_payment_cancel'] = '%s cada %s(s) %d até cancelado';
 
 // Column
 $_['column_image']          = 'Imagem';

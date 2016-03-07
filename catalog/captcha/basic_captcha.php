@@ -1,0 +1,9 @@
+<?php
+// Heading
+$_['heading_title'] = 'Captcha';
+
+// Entry
+$_['entry_captcha']  = 'Introduza o código de verificação na caixa abaixo';
+
+// Error
+$_['error_captcha']  = 'O código de verificação não corresponde à imagem!';

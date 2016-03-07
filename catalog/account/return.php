@@ -48,7 +48,6 @@ $_['entry_quantity']     = 'Quantidade';
 $_['entry_reason']       = 'Motivo da devolução';
 $_['entry_opened']       = 'O produto estava aberto';
 $_['entry_fault_detail'] = 'Defeituoso ou outros detalhes';
-$_['entry_captcha']      = 'Introduza o código na caixa abaixo';
 
 // Error
 $_['text_error']         = 'As devoluções que pediu não foram encontradas!';
@@ -60,5 +59,4 @@ $_['error_telephone']    = 'O telefone deve ter entre 3 a 32 caracteres!';
 $_['error_product']      = 'O nome do produto tem de ter entre 3 e 255 caracteres!';
 $_['error_model']        = 'O modelo do produto deve ter entre 1 e 64 caracteres!';
 $_['error_reason']       = 'Tem de selecionar um motivo para a devolução do produto!';
-$_['error_captcha']      = 'O código de verificação não corresponde à imagem!';
 $_['error_agree']        = 'Aviso: tem de concordar com %s!';

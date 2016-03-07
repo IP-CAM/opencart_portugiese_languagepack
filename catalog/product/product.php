@@ -24,7 +24,7 @@ $_['text_error']                              = 'Produto não encontrado!';
 $_['text_payment_recurring']                    = 'Perfis de pagamento';
 $_['text_trial_description']                  = '%s todas as %s(s) de %d para %d pagamentos e então';
 $_['text_payment_description']                = '%s todas as %s(s) de %d para %d de pagamentos';
-$_['text_payment_until_canceled_description'] = '%s todas as %s(s) de %d até cancelado';
+$_['text_payment_cancel'] = '%s todas as %s(s) de %d até cancelado';
 $_['text_day']                                = 'dia';
 $_['text_week']                               = 'semana';
 $_['text_semi_month']                         = 'quinzena';
@@ -38,7 +38,6 @@ $_['entry_review']                            = 'O seu comentário';
 $_['entry_rating']                            = 'Classificação';
 $_['entry_good']                              = 'Bom';
 $_['entry_bad']                               = 'Mau';
-$_['entry_captcha']                           = 'Introduza o código na caixa abaixo';
 
 // Tabs
 $_['tab_description']                         = 'Descrição';
@@ -49,4 +48,3 @@ $_['tab_review']                              = 'Comentários (%s)';
 $_['error_name']                              = 'Aviso: o nome do comentário deve ter entre 3 e 25 caracteres!';
 $_['error_text']                              = 'Aviso: o texto do comentário deve ter entre 25 e 1000 caracteres!';
 $_['error_rating']                            = 'Aviso: por favor selecione uma classificação!';
-$_['error_captcha']                           = 'Aviso: o código de verificação não corresponde à imagem!';
