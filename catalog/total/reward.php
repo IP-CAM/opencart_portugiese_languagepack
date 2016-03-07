@@ -1,16 +1,16 @@
 <?php
 // Heading
-$_['heading_title'] = 'Utilize pontos de recompensa (Disponível %s)';
+$_['heading_title'] = 'Usar  pontos de recompensa (%s disponíveis)';
 
 // Text
 $_['text_reward']   = 'Pontos de recompensa (%s)';
 $_['text_order_id'] = 'ID da Encomenda: #%s';
-$_['text_success']  = 'Sucesso: Os seus pontos de recompensa foram aplicados!';
+$_['text_success']  = 'Sucesso: o desconto dos pontos de recompensa foi aplicado!';
 
 // Entry
-$_['entry_reward']  = 'Pontos a usar (Max %s)';
+$_['entry_reward']  = 'Pontos para usar (%s no máximo)';
 
 // Error
-$_['error_reward']  = 'Aviso: Por favor introduza o número de pontos de recompensa a usar!';
-$_['error_points']  = 'Aviso: Não tem %s pontos de recompensa!';
-$_['error_maximum'] = 'Aviso: O número máximo de pontos de recompensa que pode aplicar é %s!';
+$_['error_reward']  = 'Aviso: por favor introduza a quantidade de pontos de recompensa que quer utilizar!';		
+$_['error_points']  = 'Aviso: não tem %s pontos de recompensa!';		
+$_['error_maximum'] = 'Aviso: o número máximo de pontos que podem ser aplicados é de %s!';
