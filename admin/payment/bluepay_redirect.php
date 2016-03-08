@@ -53,9 +53,9 @@ $_['help_cron_job_token']			= 'Faça com que seja longo e difícil de adivinhar'
 $_['help_cron_job_url']				= 'Definir uma tarefa cron para executar este URL';
 
 // Button
-$_['btn_release']					= 'Lançamento';
-$_['btn_rebate']					= 'Desconto / reembolso';
-$_['btn_void']						= 'Anulado';
+$_['button_release']					= 'Lançamento';
+$_['button_rebate']					= 'Desconto / reembolso';
+$_['button_void']						= 'Anulado';
 
 // Error
 $_['error_permission']				= 'Aviso: não tem permissão para alterar o pagamento do BluePay!';

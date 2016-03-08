@@ -18,6 +18,7 @@ $_['text_name']                     = 'Nome';
 $_['text_model']                    = 'Modelo';
 $_['text_combination']              = 'Combinação';
 $_['text_sku']                      = 'SKU (Unidade de Manutenção de Stock)';
+$_['text_sku_variant']              = 'Variante SKU';
 $_['text_amazon_sku']               = 'SKU do item na Amazon';
 
 // Button

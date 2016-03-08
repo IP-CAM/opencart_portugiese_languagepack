@@ -20,6 +20,7 @@ $_['text_report_30']            = '30 dias';
 $_['text_report_52']            = '52 semanas';
 $_['text_title_dsr']            = 'Relatórios de avaliações pelos clientes';
 $_['text_failed']               = 'Ocorreu uma falha ao carregar';
+$_['text_summary']              = 'Ver o seu resumo do eBay';
 
 // Error
 $_['error_validation']     		= 'Tem de se registar para seu token API e ativar o módulo.';

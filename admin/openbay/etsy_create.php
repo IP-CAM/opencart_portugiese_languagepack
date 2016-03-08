@@ -18,6 +18,7 @@ $_['text_created']  		= 'A sua listagem foi criada';
 $_['text_listing_id']  		= 'ID da listagem';
 $_['text_img_upload']  		= 'A enviar a imagem';
 $_['text_img_upload_done']  = 'Imagem enviada';
+$_['text_create']  				= 'Criar uma nova listagem no Etsy';
 
 // Entry
 $_['entry_title']      		= 'Título do produto';
@@ -45,6 +46,9 @@ $_['entry_is_custom']  		= 'Pode ser personalizado?';
 $_['entry_image']  			= 'Imagem principal';
 $_['entry_image_other']		= 'Outras imagens';
 
+// Help
+$_['help_description']			= 'Todo HTML foi removido da sua descrição, pois não é suportado pelo Etsy';
+
 // Errors
 $_['error_no_shipping']  	= 'Não configurou nenhum perfil de envio!';
 $_['error_no_shop_secton']  = 'Não configurou nenhuma secção da loja!';
@@ -59,3 +63,6 @@ $_['error_style_1_tag']  	= 'A etiqueta de estilo 1 não é válida';
 $_['error_style_2_tag']  	= 'A etiqueta de estilo 2 não é válida';
 $_['error_materials']  		= 'Só pode adicionar 13 materiais';
 $_['error_tags']  			= 'Só pode adicionar 13 etiquetas';
+$_['error_stock_max']  			= 'O stock máximo que pode ter no Etsy é 999, tem %s em stock';
+$_['error_image_max']  			= 'O número máximo de imagens que pode usar no Etsy é 5, escolheu %s';
+$_['error_variant']				= 'Variações de item no Etsy.com ainda não são suportadas pelo OpenBay Pro';

@@ -9,6 +9,7 @@ $_['text_loading']              = 'A carregar itens';
 $_['text_new_link']             = 'Criar nova ligação';
 $_['text_current_links']        = 'Ligações atuais';
 $_['text_link_saved']           = 'O item foi ligado';
+$_['text_no_links']           	= 'Não tem produtos ligados a itens do Etsy';
 
 // Columns
 $_['column_product']			= 'Nome do produto';

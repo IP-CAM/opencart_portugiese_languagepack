@@ -33,6 +33,7 @@ $_['text_variations_stock'] 			= 'stock';
 $_['text_min']                      	= 'Mínimo';
 $_['text_max']                      	= 'Máximo';
 $_['text_option']                   	= 'Opção';
+$_['text_list']              			= 'Lista de produtos';
 
 // Entry
 $_['entry_title'] 						= 'Título';

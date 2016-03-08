@@ -4,13 +4,19 @@ $_['heading_title']					= 'Rever a listagem do eBay';
 $_['text_openbay']					= 'OpenBay Pro';
 $_['text_ebay']						= 'eBay';
 
+// Tab
+$_['tab_recommendations']			= 'Recomendações';
+
 // Text
 $_['text_revise']               	= 'Rever a listagem';
 $_['text_loading']                  = 'A receber informações sobre o item do eBay';
 $_['text_error_loading']            = 'Houve um erro ao obter a informação do eBay';
-$_['text_saved']                    = 'A listagem foi  guardada';
+$_['text_saved']                    = 'A listagem foi guardada';
 $_['text_alert_removed']            = 'A listagem foi desvinculada';
 $_['text_alert_ended']              = 'A listagem foi encerrada no eBay';
+$_['text_listing_info']             = 'Informação da listagem';
+$_['text_check_recommendations']    = 'A procurar recomendações de listagens do eBay';
+$_['text_success_recommendations']  = 'Não existem recomendações de melhoria para a listagem deste item!';
 
 // Buttons
 $_['button_view']					= 'Ver listagem';
@@ -45,3 +51,6 @@ $_['help_stock_reserve']			= 'Este é o nível máximo de stock no eBay (0 = sem
 // Error
 $_['error_ended']					= 'Terminou a lista vinculada, não pode editá-la. Deve remover a ligação.';
 $_['error_reserve']					= 'Não pode definir o stock de reserva maior do que o stock local';
+$_['error_no_sku']          		= 'SKU não encontrado!';
+$_['error_no_item_id']              = 'ID do item em falta no pedido';
+$_['error_recommendations_load']    = 'Não foi possível carregar as recomendações de itens';

@@ -18,6 +18,7 @@ $_['text_sync_desc']            = 'Sincronize a sua loja com as últimos opçõe
 $_['text_ebay_categories'] 		= 'Isto pode demorar algum tempo, espere 5 minutos antes de fazer qualquer coisa.';
 $_['text_category_import']      = 'As categorias da sua loja no eBay foram importadas.';
 $_['text_setting_import']  		= 'As configurações foram importadas.';
+$_['text_sync']  				= 'Actualizar definições do eBay';
 
 // Help
 $_['help_sync_categories']   	= 'Isto não importa categorias para a sua loja!';

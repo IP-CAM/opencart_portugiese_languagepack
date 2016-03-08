@@ -17,6 +17,9 @@ $_['text_added']                    = 'Foi adicionado um novo modelo';
 $_['text_updated']                  = 'O modelo foi atualizado';
 $_['text_deleted']                  = 'O modelo foi eliminado';
 $_['text_confirm_delete']           = 'Tem a certeza que deseja eliminar o modelo?';
+$_['text_list']           			= 'Lista de templates';
+$_['text_add']      				= 'Adicionar perfil';
+$_['text_edit']      				= 'Editar perfil';
 
 // Error
 $_['error_name']               		= 'Deve introduzir um nome do modelo';

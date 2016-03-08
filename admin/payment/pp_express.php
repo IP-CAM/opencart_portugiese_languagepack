@@ -13,11 +13,16 @@ $_['text_clear']					 = 'Limpar';
 $_['text_browse']					 = 'Navegar';
 $_['text_image_manager']			 = 'Gestor de imagens';
 $_['text_ipn']						 = 'URL do IPN';
+$_['text_paypal_join']               = 'Registar no PayPal - guarde as suas definições primeiro, porque esta página vai ser atualizada';
+$_['text_paypal_join_sandbox']       = 'Registar no PayPal Sandbox - guarde as suas definições primeiro, porque esta página vai ser atualizada';
 
 // Entry
 $_['entry_username']				 = 'Nome de utilizador da API';
 $_['entry_password']				 = 'Palavra-chave da API';
 $_['entry_signature']				 = 'Assinatura da API';
+$_['entry_sandbox_username']		 = 'Nome de utilizador da API Sandbox';
+$_['entry_sandbox_password']		 = 'Palavra-chave da API Sandbox';
+$_['entry_sandbox_signature']		 = 'Assinatura da API Sandbox';
 $_['entry_test']					 = 'Modo de Teste';
 $_['entry_method']					 = 'Método de Transação';
 $_['entry_geo_zone']				 = 'Zona Geográfica';
@@ -63,5 +68,10 @@ $_['error_permission']				 = 'Aviso: não tem permissão para alterar o método 
 $_['error_username']				 = 'É necessário o Nome de Utilizador da API!';
 $_['error_password']				 = 'É necessária a Palavra-chave da API!';
 $_['error_signature']				 = 'É necessária a Assinatura da API!';
+$_['error_sandbox_username']				 = 'É necessário o Nome de Utilizador da API Sandbox!';
+$_['error_sandbox_password']				 = 'É necessária a Palavra-chave da API Sandbox!';
+$_['error_sandbox_signature']				 = 'É necessária a Assinatura da API Sandbox!';
 $_['error_data']					 = 'Faltam dados no pedido';
 $_['error_timeout']					 = 'Tempo de resposta esgotado';
+$_['error_api']						 = 'Erro de autorização PayPal';
+$_['error_api_sandbox']				 = 'Erro de autorização PayPal Sandbox';

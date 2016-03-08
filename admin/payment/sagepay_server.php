@@ -55,9 +55,9 @@ $_['help_cron_job_token']			= 'Faça com que seja longo e difícil de adivinhar'
 $_['help_cron_job_url']				= 'Definir uma tarefa cron que execute este URL';
 
 // Button
-$_['btn_release']					= 'Lançar';
-$_['btn_rebate']					= 'Devolver / reembolsar';
-$_['btn_void']						= 'Anular';
+$_['button_release']					= 'Lançar';
+$_['button_rebate']					= 'Devolver / reembolsar';
+$_['button_void']						= 'Anular';
 
 // Error
 $_['error_permission']				= 'Aviso: não tem permissão para alterar o pagamento  SagePay!';

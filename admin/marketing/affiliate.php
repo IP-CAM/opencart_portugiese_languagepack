@@ -8,6 +8,8 @@ $_['text_approved']             = 'Aprovou %s contas!';
 $_['text_list']                 = 'Lista de Afiliados';
 $_['text_add']                  = 'Adicionar Afiliado';
 $_['text_edit']                 = 'Editar Afiliado';
+$_['text_affiliate_detail']     = 'Detalhes Afiliado';
+$_['text_affiliate_address']    = 'Endereço Afiliado';
 $_['text_balance']              = 'Balanço';
 $_['text_cheque']               = 'Cheque';
 $_['text_paypal']               = 'PayPal';
@@ -64,6 +66,7 @@ $_['help_code']                 = 'O código de rastreamento será usado para ac
 $_['help_commission']           = 'Percentagem que o afiliado recebe em cada encomenda.';
 
 // Error
+$_['error_warning']             = 'Aviso: Por favor verifique se o formulário tem erros!';
 $_['error_permission']          = 'Aviso: não tem permissão para alterar o módulo afiliados!';
 $_['error_exists']              = 'Aviso: este endereço de email já está registado!';
 $_['error_firstname']           = 'O Primeiro Nome deve ter entre 1 e 32 caracteres!';

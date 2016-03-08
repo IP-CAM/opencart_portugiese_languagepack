@@ -21,5 +21,6 @@ $_['entry_sort_order']      = 'Ordenação';
 
 // Error
 $_['error_permission']      = 'Aviso: Não tem permissão para modificar atributos!';
+$_['error_attribute_group'] = 'Grupo de atributos obrigatório!';
 $_['error_name']            = 'O Nome do Atributo deve conter 3 a 64 caracteres!';
 $_['error_product']         = 'Aviso: Este atributo não pode ser apagado por estar associado a %s produtos!';

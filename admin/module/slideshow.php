@@ -8,13 +8,14 @@ $_['text_success']     = 'Sucesso: o módulo Apresentação de Slides foi altera
 $_['text_edit']        = 'Editar módulo Apresentação de Slides';
 
 // Entry
+$_['entry_name']       = 'Nome do Módulo';
 $_['entry_banner']     = 'Banner';
-$_['entry_dimension']  = 'Dimensão (L x A) e Tipo de Redimensionamento';
 $_['entry_width']      = 'Largura';
 $_['entry_height']     = 'Altura';
 $_['entry_status']     = 'Estado';
 
 // Error
 $_['error_permission'] = 'Aviso: não tem permissão para alterar o módulo Apresentação de Slides!';
-$_['error_module']     = 'Aviso: Módulo necessário!';
-$_['error_dimension']  = 'São necessárias as dimensões de largura e altura da imagem!';
+$_['error_name']       = 'O nome do módulo tem que ter entre 3 e 64 caracteres!';
+$_['error_width']      = 'Largura obrigatória!';
+$_['error_height']     = 'Altura obrigatória!';

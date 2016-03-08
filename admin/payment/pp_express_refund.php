@@ -5,6 +5,7 @@ $_['heading_title']					= 'Transação de Reembolso';
 // Text
 $_['text_pp_express']				= 'PayPal Express Checkout';
 $_['text_current_refunds']			= 'Já foram feitos reembolsos para esta transação. O máximo de reembolso é';
+$_['text_refund']					= 'Reembolso';
 
 // Entry
 $_['entry_transaction_id']			= 'ID da transação';

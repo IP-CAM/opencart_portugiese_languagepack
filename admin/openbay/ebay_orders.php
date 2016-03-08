@@ -15,6 +15,7 @@ $_['text_sync_pull_notice']         = 'Isto irá extrair novas encomendas desde 
 $_['text_ajax_orders_import']       = 'As novas encomendas irão aparecer dentro de alguns minutos';
 $_['text_complete']             	= 'Importação solicitada';
 $_['text_failed']               	= 'Falha ao carregar';
+$_['text_pull']               		= 'Pedir um import manual';
 
 // Errors
 $_['error_validation']             = 'Tem de se registar para o seu token API e ativar o módulo.';

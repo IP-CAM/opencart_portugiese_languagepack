@@ -15,6 +15,7 @@ $_['text_catalog']                  = 'Selecione o catálogo';
 $_['text_catalog_search']           = 'Pesquisar no catálogo';
 $_['text_search_term']           	= 'Termo de pesquisa';
 $_['text_close']           			= 'Fechar';
+$_['text_bulk']           			= 'Criar nova listagem em massa';
 
 //Form options / text
 $_['text_pixels']                   = 'Pixels';
@@ -57,6 +58,11 @@ $_['text_loading_duration']         = 'A carregar durações da listagem';
 $_['text_total_fee']         		= 'Total de taxas';
 $_['text_category_choose']         	= 'Encontrar categoria';
 $_['text_suggested']         		= 'Categorias sugeridas';
+$_['text_product_identifiers']    	= 'Identificadores de produto';
+$_['text_ean']    					= 'EAN';
+$_['text_upc']    					= 'UPC';
+$_['text_isbn']    					= 'ISBN';
+$_['text_identifier_not_required']  = 'Não obrigatório';
 
 //Errors
 $_['text_error_ship_profile']       = 'Tem de ter um perfil de envio padrão configurado';

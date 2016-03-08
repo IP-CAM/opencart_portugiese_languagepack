@@ -18,11 +18,11 @@ $_['column_current']  			= 'Plano atual';
 $_['text_subscription_current'] = 'Plano atual';
 $_['text_subscription_avail']   = 'Planos disponíveis';
 $_['text_subscription_avail1']  = 'Mudar de plano será imediato e as chamadas não utilizadas não serão creditadas.';
-$_['text_subscription_avail2']  = 'Para mudar para um plano abaixo, o plano básico, por favor cancele a sua subscrição ativa no PayPal.';
 $_['text_ajax_acc_load_plan']   = 'ID da subscrição no PayPal: ';
 $_['text_ajax_acc_load_plan2']  = ', deve cancelar TODAS as outras subscrições que tem no eBay';
 $_['text_load_my_plan']         = 'A carregar o seu plano';
 $_['text_load_plans']           = 'A carregar planos disponíveis';
+$_['text_subscription']         = 'Altere a sua subscrição OpenBay Pro';
 
 // Errors
 $_['error_ajax_load']      		= 'Desculpe, não foi possível obter uma resposta. Tente mais tarde.';

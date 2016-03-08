@@ -15,10 +15,10 @@ $_['column_country']         = 'País';
 $_['column_action']          = 'Ação';
 
 // Entry
-$_['entry_status']           = 'Estado da Zona';
 $_['entry_name']             = 'Nome da Zona';
 $_['entry_code']             = 'Código da Zona';
 $_['entry_country']          = 'País';
+$_['entry_status']           = 'Estado da Zona';
 
 // Error
 $_['error_permission']       = 'Aviso: não tem permissão para alterar as Zonas!';

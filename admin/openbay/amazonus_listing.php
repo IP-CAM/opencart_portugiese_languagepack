@@ -56,6 +56,7 @@ $_['column_action'] 				= 'Ação';
 $_['column_name'] 					= 'Nome do produto';
 $_['column_model'] 					= 'Modelo';
 $_['column_combination'] 			= 'Combinação';
+$_['column_sku_variant'] 			= 'Variante SKU';
 $_['column_sku'] 					= 'SKU';
 $_['column_amazon_sku'] 			= 'SKU do item na Amazon';
 

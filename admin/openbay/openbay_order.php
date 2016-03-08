@@ -25,8 +25,11 @@ $_['text_ebay']                 = 'eBay';
 $_['text_amazon']               = 'Amazon UE';
 $_['text_amazonus']             = 'Amazon EUA';
 $_['text_etsy']             	= 'Etsy';
+$_['text_list']					= 'Lista de encomendas';
 
 // Entry
 $_['entry_carrier']             = 'Transportadora';
 $_['entry_tracking_no']         = 'Rastreamento';
 $_['entry_other']               = 'Outros';
+$_['entry_date_added']          = 'Data adicionada';
+$_['entry_order_channel']       = 'Outro canal';

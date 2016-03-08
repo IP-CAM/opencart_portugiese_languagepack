@@ -22,6 +22,7 @@ $_['text_item_activated']     	= 'O item foi ativado no Etsy';
 $_['text_confirm_end']          = 'Tem a certeza que deseja remover a listagem?';
 $_['text_confirm_deactivate']   = 'Tem a certeza que deseja desativar a listagem?';
 $_['text_confirm_activate']     = 'Tem a certeza que deseja ativar a listagem?';
+$_['text_listings']     		= 'Gira as suas listagens do Etsy';
 
 // Columns
 $_['column_listing_id']			= 'ID do Etsy';

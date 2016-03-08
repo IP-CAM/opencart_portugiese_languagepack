@@ -34,6 +34,11 @@ $_['text_shipping_handling']          	= 'Taxa de processamento';
 $_['text_shipping_cod']           		= 'Pagamento contra reembolso';
 $_['text_shipping_handling_nat']    	= 'Taxa de serviço (nacional)';
 $_['entry_shipping_handling_int']    	= 'Taxa de serviço (internacional)';
+$_['entry_shipping_pickupdropoff']  	= 'Click and Collect';
+$_['entry_shipping_pickupinstore']  	= 'Available for In-Store Pickup';
+$_['entry_shipping_global_shipping']  	= 'Use eBay global shipping service';
+$_['entry_shipping_promotion_discount'] = 'Combined shipping discounts (national)';
+$_['entry_shipping_promotion_discount_international'] = 'Combined shipping discounts (international)';
 
 //Returns profile
 $_['text_returns_accept']       		= 'As devoluções são aceites';
@@ -50,6 +55,7 @@ $_['text_returns_costs']        		= 'Custos de transporte da devolução';
 $_['text_returns_costs_b']      		= 'O comprador paga';
 $_['text_returns_costs_s']      		= 'O vendedor paga';
 $_['text_returns_restock']      		= 'Taxa de reabastecimento';
+$_['text_list']           				= 'Lista de perfis';
 
 //Template profile
 $_['text_template_choose']      		= 'Modelo padrão';
@@ -68,6 +74,8 @@ $_['text_confirm_delete']       		= 'Tem a certeza que deseja eliminar o perfil?
 $_['text_width']      					= 'Largura';
 $_['text_height']      					= 'Altura';
 $_['text_px']      						= 'px';
+$_['text_add']      					= 'Adicionar perfil';
+$_['text_edit']      					= 'Editar perfil';
 
 //General profile
 $_['text_general_private']      		= 'Listar itens como leilão privado';
@@ -96,3 +104,7 @@ $_['error_permission']        			= 'Não tem permissão para editar perfis';
 $_['error_name']           				= 'Tem de introduzir um nome de perfil';
 $_['error_no_template']          		= 'O ID do modelo não existe';
 $_['error_missing_settings'] 			= 'Não pode adicionar, editar ou eliminar perfis enquanto não sincronizar as suas configurações do eBay';
+
+//Help
+$_['help_shipping_promotion_discount'] = 'Ofereça um desconto nos portes de envio aos compradores nacionais se eles comprarem vários produtos. Os discontos devem ser configurados no eBay.';
+$_['help_shipping_promotion_discount_international'] = 'Ofereça um desconto nos portes de envio aos compradores internacionais se eles comprarem vários produtos. Os discontos devem ser configurados no eBay.';
