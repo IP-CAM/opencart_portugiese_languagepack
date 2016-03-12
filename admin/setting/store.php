@@ -3,6 +3,7 @@
 $_['heading_title']                    = 'Lojas';
 
 // Text
+$_['text_settings']                    = 'Definições';
 $_['text_success']                     = 'Sucesso: as lojas foram alteradas!';
 $_['text_list']                        = 'Lista de lojas';
 $_['text_add']                         = 'Adicionar loja';

@@ -76,7 +76,6 @@ $_['entry_dimension']			   = 'Dimensões (C x L x A)';
 $_['entry_length']                 = 'Comprimento';
 $_['entry_height']                 = 'Altura';
 $_['entry_width']                  = 'Largura';
-$_['entry_height']                 = 'Altura';
 $_['entry_tax_class']              = 'Classe de Taxa';
 $_['entry_geo_zone']               = 'Zona Geográfica';
 $_['entry_status']                 = 'Estado';

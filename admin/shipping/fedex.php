@@ -50,6 +50,11 @@ $_['entry_meter']                              = 'Número do Medidor';
 $_['entry_postcode']                           = 'Código Postal';
 $_['entry_test']                               = 'Modo de Teste';
 $_['entry_service']                            = 'Serviços';
+$_['entry_dimension']                          = 'Dimensões da Caixa(C x L x A)';
+$_['entry_length_class']                       = 'Classe de comprimento';
+$_['entry_length']                             = 'Comprimento';
+$_['entry_width']                              = 'Largura';
+$_['entry_height']                             = 'Altura';
 $_['entry_dropoff_type']                       = 'Tipo de Entrega';
 $_['entry_packaging_type']                     = 'Tipo de Embalagem';
 $_['entry_rate_type']                          = 'Tipo de Taxa';
@@ -62,6 +67,7 @@ $_['entry_status']                             = 'Estado';
 $_['entry_sort_order']                         = 'Ordenação';
 
 // Help
+$_['help_length_class']                        = 'Defina polgadas ou centímetros.';
 $_['help_display_time']                        = 'Quer mostrar o tempo que demorar a entregar? (por exemplo: entrega entre 3 a 5 dias)';
 $_['help_display_weight']                      = 'Que mostrar o peso de entrega (por exemplo Peso de Entrega: 2.7674 kg)';
 $_['help_weight_class']                        = 'Em quilogramas ou libras.';
@@ -73,3 +79,4 @@ $_['error_password']                           = 'É necessária a palavra-chave
 $_['error_account']                            = 'É necessária a conta!';
 $_['error_meter']                              = 'É necessário o medidor!';
 $_['error_postcode']                           = 'É necessário o código postal!';
+$_['error_dimension']                          = 'É necessário a largura e comprimento!';

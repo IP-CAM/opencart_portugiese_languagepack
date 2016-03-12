@@ -4,11 +4,11 @@ $_['heading_title'] = 'Usar Vale de Oferta';
 
 // Text
 $_['text_voucher'] = 'Vale de Oferta (%s)';
-$_['text_success']  = 'Sucesso: O seu vale de oferta foi aplicado!';
+$_['text_success']  = 'Sucesso: Foi aplicado o desconto do vale de oferta!';
 
 // Entry
-$_['entry_voucher'] = 'Introduza o seu código de Vale de Oferta aqui';
+$_['entry_voucher'] = 'Introduza o código do vale aqui';
 
 // Error
-$_['error_voucher'] = 'Aviso: Vale de Oferta é inválido ou o saldo já foi usado!';
-$_['error_empty']   = 'Aviso: Por favor introduza um código de vale de oferta!';
+$_['error_voucher'] = 'Aviso: O vale de oferta é inválido ou já foi usado!';
+$_['error_empty']   = 'Aviso: por favor introduza o código do vale!';
